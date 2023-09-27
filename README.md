@@ -1,6 +1,8 @@
 # Learning Resources for the Team
 
 Hello Team! Here are some curated learning resources that you might find helpful in enhancing your skills in various domains. Feel free to explore them at your convenience!
+This repository serves as a centralized hub for curated learning resources aimed at enhancing the technical skills of our team. It encompasses a diverse range of topics including Linux, Python, Computer Science, Version Control, DevOps, Containerization, Full Stack Engineering, and more. Whether you are looking to brush up on existing knowledge or explore new domains, feel free to delve into these resources and embark on your learning journey!
+
 
 ## Linux
 - [Hands-On Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)
