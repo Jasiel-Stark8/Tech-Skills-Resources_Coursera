@@ -1,5 +1,5 @@
 # Coursera Selections
-To be explored once financial aid has been approved by Coursera.
+To be taken once financial aid has been approved by Coursera.
 
 ---
 
