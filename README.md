@@ -1,4 +1,4 @@
-# Learning Resources for the Team - With certification
+# Learning Resources - With certification
 
 Hello Team! Here are some curated learning resources that you might find helpful in enhancing your skills in various domains. Feel free to explore them at your convenience!
 
