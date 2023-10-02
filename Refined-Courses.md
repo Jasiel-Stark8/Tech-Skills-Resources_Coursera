@@ -25,8 +25,8 @@ To be explored once financial aid has been approved by Coursera.
 
 ![IBM Logo](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/c0/87a10033a311e892619b85c6fd62bb/IBM-200x48.png?auto=format%2Ccompress&dpr=1&w=&h=45)
 
-- [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
-- [IBM Back-End Development Professional Certificate](https://www.coursera.org/professional-certificates/ibm-backend-development)
+- [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) - 4 months at 10 hours a week
+- [IBM Back-End Development Professional Certificate](https://www.coursera.org/professional-certificates/ibm-backend-development) - 12 months at 10 hours a week
 
 
 ![Meta Logo](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/77/b2516312bd44b4a958b392f1a74ef3/200-x-48.png?auto=format%2Ccompress&dpr=1&w=&h=45)
