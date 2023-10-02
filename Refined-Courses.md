@@ -5,7 +5,7 @@ To be explored once financial aid has been approved by Coursera.
 
 ![Google Logo](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/fa/79e521abf14610b4fec9d677901916/0.png?auto=format%2Ccompress&dpr=1&w=&h=45)
 
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) - 6 months at 10 hours a week
 
 ---
 
