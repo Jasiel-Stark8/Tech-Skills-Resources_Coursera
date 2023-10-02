@@ -13,11 +13,11 @@ To be explored once financial aid has been approved by Coursera.
 
 ![IBM Logo](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/c0/87a10033a311e892619b85c6fd62bb/IBM-200x48.png?auto=format%2Ccompress&dpr=1&w=&h=45)
 
-- [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)
+- [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting) - 4 hours (approximately)
 
-- [Developing AI Applications with Python and Flask](https://www.coursera.org/learn/python-project-for-ai-application-development)
+- [Developing AI Applications with Python and Flask](https://www.coursera.org/learn/python-project-for-ai-application-development) - 10 hours (approximately)
 
-- [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift)
+- [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) - 13 hours (approximately)
 
 ---
 
