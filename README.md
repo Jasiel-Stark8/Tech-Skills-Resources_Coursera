@@ -45,7 +45,7 @@ This repository serves as a centralized hub for curated learning resources aimed
 - [IBM Backend Development Professional Certificate](https://www.coursera.org/professional-certificates/ibm-backend-development)
   - Duration: 12 months at 10 hours a week
 
-## Coursera $100 Off
+## Coursera $100 Off ENDED SEP 2023 - UPDATE COMING
 - [Coursera Plus Annual Subscription](https://www.coursera.org/courseraplus/special/annual-aug-2023)
 
 Happy Learning!
