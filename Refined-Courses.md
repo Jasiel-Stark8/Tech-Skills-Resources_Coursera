@@ -31,5 +31,5 @@ To be explored once financial aid has been approved by Coursera.
 
 ![Meta Logo](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/77/b2516312bd44b4a958b392f1a74ef3/200-x-48.png?auto=format%2Ccompress&dpr=1&w=&h=45)
 
-- [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
-- [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
+- [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) - 7 months at 6 hours a week
+- [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer) - 8 months at 6 hours a week
