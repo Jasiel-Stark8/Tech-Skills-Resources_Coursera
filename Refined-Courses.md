@@ -7,6 +7,10 @@ To be taken once financial aid has been approved by Coursera.
 
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) - 6 months at 10 hours a week
 
+## AI
+
+[Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536)
+
 ---
 
 ##### The following courses are part of multiple programs offered by IBM. Upon enrollment, you'll be prompted to select a specific program.
