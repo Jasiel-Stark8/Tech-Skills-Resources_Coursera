@@ -9,8 +9,8 @@ To be taken once financial aid has been approved by Coursera.
 
 ## AI
 
-[Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536)
-[Google AI Courses](https://grow.google/intl/ssa-en/courses-and-tools/?category=career&topic=ai)
+- [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536)
+- [Google AI Courses](https://grow.google/intl/ssa-en/courses-and-tools/?category=career&topic=ai)
 
 ---
 
