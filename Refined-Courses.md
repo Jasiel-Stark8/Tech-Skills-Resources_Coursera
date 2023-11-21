@@ -11,7 +11,7 @@ To be taken once financial aid has been approved by Coursera.
 
 - [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536)
 - [Google AI Courses](https://grow.google/intl/ssa-en/courses-and-tools/?category=career&topic=ai)
-- [Microsoft AI Courses](https://microsoft.github.io/generative-ai-for-beginners/)
+- [Microsoft AI Courses](https://microsoft.github.io/generative-ai-for-beginners/) --> Just Added
 
 ---
 
